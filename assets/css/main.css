@@ -3804,12 +3804,12 @@ input, select, textarea {
 
 			#footer > .inner section:nth-child(1) {
 				width: 100%;
-				margin-right: 2.5em;
+				/* margin-right: 2.5em; */
 			}
 
 			#footer > .inner section:nth-child(2) {
 				width: 100%;
-				margin-left: 2.5em;
+				/* margin-left: 2.5em; */
 			}
 
 			#footer > .inner .copyright {
